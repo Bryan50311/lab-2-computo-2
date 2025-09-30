@@ -1,7 +1,9 @@
 # lab2.py
 # Laboratorio 2 – Análisis de datos con Pandas
 # Dataset: Nascar champion History Dataset.csv
-# Autor: [Tu nombre]
+# Autor: Fredys Alejandro Hernández Robles
+        # Brayan Adaly Campos Martinez
+        # Jeremias neftaly fuentes Mendez
 # Fecha: [fecha actual]
 
 import pandas as pd
@@ -49,4 +51,3 @@ if "Wins" in df.columns:
 if "Year" in df.columns:
     print("\n--- Campeones después del año 2000 ---")
     print(df[df["Year"] > 2000])
-        
