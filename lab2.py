@@ -42,3 +42,11 @@ if "Wins" in df.columns:
     print("Media:", np.mean(df["Wins"]))
     print("Mediana:", np.median(df["Wins"]))
     print("Desviación estándar:", np.std(df["Wins"]))
+
+
+
+# 7. Filtrar datos (ejemplo: campeones después del año 2000)
+if "Year" in df.columns:
+    print("\n--- Campeones después del año 2000 ---")
+    print(df[df["Year"] > 2000])
+        
