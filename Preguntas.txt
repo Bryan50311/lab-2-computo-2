@@ -1,0 +1,33 @@
+a. De qué trata el dataset
+El dataset contiene la historia de los campeones de NASCAR. 
+Incluye el año, el nombre del piloto ganador, el número del carro, la marca del fabricante y 
+la cantidad de carreras ganadas en esa temporada.
+
+b. Resumen estadístico (describe())
+El resumen estadístico permite ver cuántos datos hay, los valores más pequeños y más grandes, 
+el promedio, la mediana y con qué frecuencia aparecen algunos pilotos o fabricantes. 
+Por ejemplo, muestra que Chevrolet es el fabricante más repetido y 
+que Jimmie Johnson aparece varias veces.
+
+c. Cambios o tendencias
+Se observa que al inicio los campeones ganaban pocas carreras, 
+mientras que con el tiempo algunos pilotos lograron temporadas con muchas victorias (hasta 27). 
+También se ve el cambio de fabricantes a lo largo de los años.
+
+d. Categorías que sobresalen
+Sobresalen las categorías de *fabricantes* (Chevrolet es el que más campeonatos aparece) 
+y *pilotos con múltiples títulos* como Jimmie Johnson. 
+Esto puede ser porque esos equipos tenían más recursos y mejor rendimiento.
+
+
+e. Diferencias entre primeros y últimos registros
+En los primeros registros (años 40 y 50), los pilotos ganaban pocas carreras, a veces 0 o 2. 
+En cambio, en los últimos registros (2010–2016) los campeones casi siempre tienen varias victorias 
+(5, 6 o más) y fabricantes más modernos como Chevrolet y Toyota.
+
+
+f. Aporte de las medidas estadísticas
+Las medidas estadísticas (media, mediana, desviación) ayudan a entender mejor los datos. 
+Por ejemplo, la media de victorias (4.5) muestra que en promedio los campeones 
+logran entre 4 y 5 triunfos por temporada, y la desviación muestra qué tan diferentes son esos 
+resultados entre sí.
